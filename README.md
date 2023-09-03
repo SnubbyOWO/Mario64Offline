@@ -1,4 +1,4 @@
-# Mario64Offline
+# Super Mario 64 Offline Build
 A WebGL port of Super Mario 64, BUT a offline verison.
 
 # What's Different?
